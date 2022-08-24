@@ -1,0 +1,16 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\Algoritmo K-NN.exe.config
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\Algoritmo K-NN.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\Algoritmo K-NN.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\SpreadsheetLight.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\System.Drawing.Common.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\System.IO.Packaging.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\SpreadsheetLight.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\bin\Debug\System.IO.Packaging.xml
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\obj\Debug\Algoritmo K-NN.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\obj\Debug\Algoritmo K-NN.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\obj\Debug\Algoritmo K-NN.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\obj\Debug\Algoritmo K-NN.csproj.CopyComplete
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\obj\Debug\Algoritmo K-NN.exe
+C:\Users\jorge\Documents\Facultad\SEM2022-2\Intelegencia Artificial\Miniproyecto\Algoritmo K-NN\Algoritmo K-NN\obj\Debug\Algoritmo K-NN.pdb
